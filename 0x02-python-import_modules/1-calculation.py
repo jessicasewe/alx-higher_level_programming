@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Print the sum,difference,product and quotient"""
 if __name__ == "__main__":
+    """Print the sum,difference,product and quotient"""
     from calculator_1 import add, sub, mul, div
 
     a = 10
